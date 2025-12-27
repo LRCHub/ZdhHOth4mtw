@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "平行線",
+  "base_artist": "SAYURI",
+  "createdAt": "2025-12-27T16:52:34.868847Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "平行線",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/01_平行線_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "平行線",
+      "artist": "Eve feat. suis",
+      "has_synced": true,
+      "path": "select/02_平行線_Eve_feat._suis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "平行線",
+      "artist": "Eve & suis",
+      "has_synced": true,
+      "path": "select/03_平行線_Eve_&_suis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "平行線",
+      "artist": "Eve (57)",
+      "has_synced": true,
+      "path": "select/04_平行線_Eve_(57).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "平行線",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/05_平行線_さユり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "平行線",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/06_平行線_さユり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "平行線 - Heikousen",
+      "artist": "suis from Yorushika",
+      "has_synced": true,
+      "path": "select/07_平行線_-_Heikousen_suis_from_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "平行線",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/08_平行線_さユり.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "平行線",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/09_平行線_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "平行線",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/10_平行線_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "平行線 - Parallel Line",
+      "artist": "SAYURI",
+      "has_synced": true,
+      "path": "select/11_平行線_-_Parallel_Line_SAYURI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "平行線",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/12_平行線_さユり.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "平行線",
+      "artist": "さゆり",
+      "has_synced": true,
+      "path": "select/13_平行線_さゆり.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "平行線",
+      "artist": "金莎",
+      "has_synced": true,
+      "path": "select/14_平行線_金莎.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "平行線",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/15_平行線_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Parallel Line [平行線]",
+      "artist": "Sayuri [さユり]",
+      "has_synced": true,
+      "path": "select/16_Parallel_Line_[平行線]_Sayuri_[さユり].lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "平行線（《碧血書香夢》插曲）",
+      "artist": "金莎",
+      "has_synced": false,
+      "path": "select/17_平行線(《碧血書香夢》插曲)_金莎.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "平行線",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_01_平行線_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "平行線",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_02_平行線_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "平行線",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_03_平行線_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "平行線",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_04_平行線_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "平行線",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_05_平行線_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "平行線",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_06_平行線_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "平行線-弾き語りver.-",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_07_平行線-弾き語りver.-_さユり.txt"
+    }
+  ]
+}
